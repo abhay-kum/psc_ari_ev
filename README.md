@@ -1,7 +1,7 @@
 # psc_ari_ev
 Evaluate arithmetic operation by server and send to the client who is request for it by UDP and TCP
 
-# Solve arithmatic expression using python socket programming as UDP and TCP  serer client module
+# Solve arithmatic expression using python socket programming as UDP and TCP  server client module
  In this server has processing the expression received by client using  both protocol as UDP and TCP module, and evaluate the expression and send to the answer to the client.
 
 #file description
